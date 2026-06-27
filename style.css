@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: #FF6F91;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFF4F7;
+  color: #333;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  place-items: center;
+}
+
+h2 {
+  text-align: center;
+  color: #FF6F91;
+}
+
+p {
+  max-width: 900px;
+  margin: 0 auto 20px;
+}
+
+ul {
+  max-width: 700px;
+  margin: 0 auto 20px;
+}
+
+img {
+  display: block;
+  width: 300px;
+  margin: auto;
+  border-radius: auto;
+}
+
+.two-images{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
